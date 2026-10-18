@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MedStudyAI" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.MedStudyAI.Dialog" parent="android:Theme.Material.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+</resources>
